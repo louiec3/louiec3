@@ -1,4 +1,5 @@
-**Check out the latest release of DAQ TA:** https://github.com/louiec3/DAQ-TA/releases/tag/v1.0.0 
+## **Check out the latest release of DAQ TA:** 
+https://github.com/louiec3/DAQ-TA/releases/tag/v1.0.0 
 
 - 👋 Hi my name is Louis Cundari III
 - 👀 I’m interested in all things technology and space!
