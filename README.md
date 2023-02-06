@@ -12,9 +12,7 @@ https://sites.google.com/view/louiscundari3-e101/home
 
 I am a passionate worker willing to learn and researh to expand my skillsets. 
 
-- I’m interested in all things technology and space!
-- 💞️ I’m looking to collaborate on data oriented python projects
-- 📫 How to reach me: louiec1212@yahoo.com
+I’m interested in all things technology and space and looking to collaborate on data oriented python projects.
 
 <!---
 louiec3/louiec3 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
