@@ -6,7 +6,7 @@ https://sites.google.com/view/louiscundari3-e101/home
 
 ## Contact: louiec1212@yahoo.com
 
-## ** About Me**
+## **About Me**
 
 #### Hi my name is Louis Cundari III I am currently a student at the University of Connecticut studying Computer Science with a concentration in Computational Data Analytics.
 
