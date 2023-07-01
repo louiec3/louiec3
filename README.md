@@ -8,11 +8,11 @@ https://sites.google.com/view/louiscundari3-e101/home
 
 ## **About Me**
 
-#### Hi my name is Louis Cundari III I am currently a student at the University of Connecticut studying Computer Science with a concentration in Computational Data Analytics.
+#### Hi my name is Louis Cundari III I am a student at the University of Connecticut studying Computer Science with a concentration in Computational Data Analytics.
 
-I am a passionate worker willing to learn and reseach to expand my skillsets. 
+I am a passionate worker willing to learn and research to expand my skillsets. 
 
-I’m interested in all things technology and space and looking to collaborate on data oriented python projects.
+I’m interested in all things technology and space and looking to collaborate on data-oriented Python projects.
 
 <!---
 louiec3/louiec3 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
