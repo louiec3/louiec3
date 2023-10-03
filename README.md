@@ -6,7 +6,9 @@ https://github.com/louiec3/DAQ-TA/releases/tag/v1.0.0
 
 https://sites.google.com/view/louiscundari3-e101/home
 
-## Contact: louiec1212@yahoo.com
+## Contact
+
+louiec1212@yahoo.com
 
 ## **About Me**
 
