@@ -16,7 +16,7 @@ louiec1212@yahoo.com
 ## **About Me**
 
 
-Hi my name is Louis Cundari III I am a student at the University of Connecticut studying Computer Science with a concentration in Computational Data Analytics.
+Hi my name is Louis Cundari III, I am a student at the University of Connecticut studying Computer Science with a concentration in Computational Data Analytics.
 
 I’m interested in all things technology and space and looking to collaborate on data-oriented Python projects.
 
