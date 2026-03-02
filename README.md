@@ -3,11 +3,6 @@
 
 https://github.com/louiec3/DAQ-TA/releases/tag/v1.0.0 
 
-## **College English Portfolio**
-
-
-https://sites.google.com/view/louiscundari3-e101/home
-
 ## Contact
 
 
